@@ -12,4 +12,4 @@
 
 - E-Mail: <jackjun0724@gmail.com>
 
-- Blog: [Return Zero](https://blog.retzero.com)
+- Blog: [Return Zero](https://www.retzero.com)
