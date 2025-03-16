@@ -8,5 +8,3 @@
 <h2>Contact Me</h2>
 
 - E-Mail: <jackjun0724@gmail.com>
-
-- Blog: [Return Zero](https://www.retzero.com)
